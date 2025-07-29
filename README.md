@@ -43,3 +43,5 @@ Que a força do `git push` esteja com vocês!
 ---
 
 *Um F pelo `trabalho_final.zip` que ficou pelo caminho. 🗿*# exemplo-de-aula-git
+
+SOU LINDO BOY
